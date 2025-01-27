@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2025-01-27T12:50:10.239Z",
+      "notes": "I mean it's home",
+      "position": {
+        "lat": "-33.87152964284524",
+        "lng": "151.20967546383048"
+      },
+      "id": 1
+    }
+  ]
 }
